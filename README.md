@@ -23,7 +23,7 @@ Telegram Group: https://t.me/+Db-eLPJTy7Y4ZWZj
 
 **macOS** (MANUAL START!  `cd xenvastmac` and `python3 app.py`)
 ```brew
-brew update && brew install wget && wget https://raw.githubusercontent.com/tr4vLer/xenvast/main/autostart.sh && chmod +x autostart.sh && ./autostart.sh
+brew update && brew install wget && wget https://raw.githubusercontent.com/tr4vLer/xenvast/main/autostart_mac.sh && chmod +x autostart.sh && ./autostart_mac.sh
 ```
 
 **Linux Ubuntu** *(Execute the command below in the terminal.)*
